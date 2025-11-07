@@ -1,0 +1,4 @@
+image,n_detections,global_caption,clip_global,clip_objects_mean,time_detect,time_flow,time_cap_global,time_cap_objects,time_viz,time_total,annotated_image
+input.jpg,27,a group of people sitting at desks in a lecture hall,0.33309558033943176,0.27792057767510414,3.7300126552581787,0.0,9.24346661567688,24.76710557937622,0.5246284008026123,39.07371640205383,output\annotated_input.jpg
+input2.jpg,26,a group of people sitting at desks in a classroom,0.29105252027511597,0.2149261124432087,1.466301441192627,0.0,3.276566505432129,26.490149974822998,0.03219342231750488,32.171104192733765,output\annotated_input2.jpg
+input3.jpg,30,a large group of people sitting in chairs in a lecture hall,0.28694459795951843,0.2281940933316946,3.2585086822509766,0.0,5.488202810287476,27.94143009185791,0.15454936027526855,37.66493892669678,output\annotated_input3.jpg

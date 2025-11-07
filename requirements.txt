@@ -1,0 +1,52 @@
+# # Scene Prose CV Project Requirements
+
+# # Core scientific & image packages
+# numpy
+# pillow
+# matplotlib
+# opencv-python-headless
+# tqdm
+
+# # Machine learning & deep learning
+# torch
+# torchvision
+# torchaudio
+# transformers
+
+# # Jupyter environment
+# jupyterlab
+# ipywidgets
+# import-ipynb
+
+# # Optional: Hugging Face accelerated storage
+# huggingface_hub[hf_xet]
+
+
+# Core deep learning and vision
+torch==2.3.1+cpu
+torchvision==0.18.1+cpu
+torchaudio==2.3.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Image and video processing
+opencv-python-headless>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.7.1
+tqdm>=4.65.0
+
+# Transformer-based captioning (BLIP)
+transformers>=4.40.0
+huggingface-hub>=0.23.0
+
+# Feature extraction, flow, and support
+scikit-image>=0.22.0
+scipy>=1.11.0
+networkx>=3.1
+pyyaml>=6.0
+requests>=2.31.0
+
+# Optional (for Jupyter / VS Code)
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+import-ipynb>=0.2.0
