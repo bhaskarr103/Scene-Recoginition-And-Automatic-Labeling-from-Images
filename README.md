@@ -132,8 +132,10 @@ What it does:
 
 ### 🎥 Video Output
 
-For videos, the pipeline processes **each frame independently** and saves annotated frames.
-https://github.com/user-attachments/assets/30d0d7b2-0b1e-4bcb-9829-e30a56c7dbb1
+For videos, the pipeline processes **each frame independently** and saves annotated frames.<br>
+<img width="1920" height="1011" alt="Image" src="https://github.com/user-attachments/assets/7834bc58-3dd9-4f54-852f-e3e31906600d" />
+
+<img width="1920" height="1021" alt="Image" src="https://github.com/user-attachments/assets/ab29864e-ab22-4857-b2fd-56aea539efa7" />
 
 ---
 
