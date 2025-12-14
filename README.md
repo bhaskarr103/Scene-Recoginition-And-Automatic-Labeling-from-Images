@@ -106,10 +106,6 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
-(If `requirements.txt` is not created yet, install manually:
-`torch`, `torchvision`, `opencv-python`, `Pillow`, `matplotlib`, `transformers`)
-
 ---
 
 ### 3️⃣ Run the Demo Script
@@ -130,26 +126,14 @@ What it does:
 ## 📊 Output Examples
 
 ### 🖼️ Image Output
-
-> *(Paste your annotated image here)*
-
-```markdown
-![Annotated Output](output/annotated.jpg)
-```
+![Image](https://github.com/user-attachments/assets/64337aaf-dff5-42d8-af89-25ea80249fdf)
 
 ---
 
 ### 🎥 Video Output
 
 For videos, the pipeline processes **each frame independently** and saves annotated frames.
-
-> *(Paste your video demo or GIF here)*
-
-```markdown
-![Video Demo](assets/demo_video.gif)
-```
-
-*(Full videos are not embedded due to size constraints.)*
+https://github.com/user-attachments/assets/30d0d7b2-0b1e-4bcb-9829-e30a56c7dbb1
 
 ---
 
