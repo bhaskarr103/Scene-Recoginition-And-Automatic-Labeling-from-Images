@@ -193,8 +193,16 @@ For full methodology, experiments, and analysis, see:
 
 ---
 
-## 👤 Author
+## Authors
 
-**Bhaskar R**
-Computer Vision & Multimodal AI
-*(Academic project – EE604 / Image Processing)*
+**Course Project — Image Processing (EE-604)** **Professor:** Koteswar Rao Jerripothula  
+**Group ID:** 4  
+
+1. Md Tahseen Aslam (251010069)
+2. Bhaskar Rajaura 
+3. Kumar Harshit 
+4. Swagat Kumar Jena 
+
+---
+
+<div align="center"><sub>For full methodology and experiments, see <a href="WRITE-UP.pdf">WRITE-UP.pdf</a></sub></div>
